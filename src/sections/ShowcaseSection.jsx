@@ -4,7 +4,7 @@ const AppShowcase = () => {
   const socialLinks = [
     {
       name: "Motion Design Projects",
-      href: "#", // Add your Google Drive link here
+      href: "https://drive.google.com/drive/folders/1lVhrzy0GuxKWxte9tOU7QaQdkrEoRBCy?usp=sharing", // Add your Google Drive link here
       color: "bg-[#222222] hover:bg-[#333333]",
       icon: (
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.3 78" className="w-12 h-12">
@@ -18,7 +18,7 @@ const AppShowcase = () => {
     },
     {
       name: "Graphic Design Projects",
-      href: "#",
+      href: "https://drive.google.com/drive/folders/1HS12vzwCMaJ2Cl1d13ZqiYip2IU8GqnP?usp=sharing",
       color: "bg-[#222222] hover:bg-[#333333]",
       icon: (
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.3 78" className="w-12 h-12">
