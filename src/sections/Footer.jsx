@@ -13,7 +13,7 @@ const Footer = () => {
         </div>
         <div className="flex flex-col justify-center">
           <p className="text-center md:text-end">
-            © {new Date().getFullYear()} Shahbaz. All rights reserved. Made by <a href="https://huzaifa-bin-khalid.netlify.app/" className="text-blue-600 hover:text-blue-500 transition-colors" target="_blank">Huzaifa</a>
+            © {new Date().getFullYear()} Shahbaz. All rights reserved. Made by <a href="https://huzaifa-portfolioo.vercel.app/" className="text-blue-600 hover:text-blue-500 transition-colors" target="_blank">Huzaifa</a>
           </p>
         </div>
       </div>
